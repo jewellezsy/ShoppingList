@@ -8,8 +8,7 @@
     <OutputType>Library</OutputType>
     <RootNamespace>ShoppingList_Sy</RootNamespace>
     <AssemblyName>ShoppingList_Sy</AssemblyName>
-    <TargetFrameworkVersion>v10.0</TargetFrameworkVersion>
-	<LangVersion>11.0</LangVersion>
+    <TargetFramework>net9.0-windows</TargetFramework>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
