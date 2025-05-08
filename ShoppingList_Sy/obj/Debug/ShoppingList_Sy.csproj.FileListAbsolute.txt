@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\ShoppingList_Sy\ShoppingList_Sy\obj\Debug\ShoppingList_Sy.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ShoppingList_Sy\ShoppingList_Sy\obj\Debug\ShoppingList_Sy.AddGroceriesForm.resources
+C:\Users\User\source\repos\ShoppingList_Sy\ShoppingList_Sy\obj\Debug\ShoppingList_Sy.Properties.Resources.resources
+C:\Users\User\source\repos\ShoppingList_Sy\ShoppingList_Sy\obj\Debug\ShoppingList_Sy.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ShoppingList_Sy\ShoppingList_Sy\obj\Debug\ShoppingList_Sy.csproj.CoreCompileInputs.cache
